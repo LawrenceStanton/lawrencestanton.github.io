@@ -109,10 +109,10 @@ author:
   links:
     - label: "Email" # TODO
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto://torsten@ackerview.com"
+      url: "mailto://lawrence.stanton@icloud.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ackerview.com"
+      # url: "https://ackerview.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,13 +121,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/torstenbabl/"
+      url: "https://github.com/LawrenceStanton"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/torsten-babl-1a3311128"
+      url: "https://www.linkedin.com/in/lawrence-stanton-03a17811a/"
 
 # Site Footer
 footer:
