@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email" # TODO
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto://lawrence.stanton@icloud.com"
+      url: "mailto:lawrence.stanton@icloud.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://ackerview.com"
