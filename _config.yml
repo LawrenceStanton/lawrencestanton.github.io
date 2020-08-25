@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Lawrence Stanton"
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate Mechatronics Engineering student with broad knowledbase over Science and Engineering. Embedded Systems and Circuit designer. Management Committee member for SCOUTS South Africa."
+  avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Undergraduate Mechatronics Engineering student. Embedded Systems and Circuit designer. Management Committee member of SCOUTS South Africa."
   location         : "Cape Town, South Africa"
   email            :
   links:
