@@ -1,6 +1,6 @@
 ---
 layout: posts-proj
 permalink: /project-portfolio/
-title: "Project Portfolio"
+title: "Projects"
 author_profile: true
 ---
