@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-ZA"
-title                    : "My Blog"
+title                    : "Changed"
 title_separator          : "-"
 name                     : "Torsten Babl"
 description              : "Personal Blog and Project Portfolio"
