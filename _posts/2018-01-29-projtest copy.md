@@ -4,6 +4,6 @@ date: 2019-01-29
 categories: Project
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron"
+excerpt: "Machine"
 mathjax: "true"
 ---
