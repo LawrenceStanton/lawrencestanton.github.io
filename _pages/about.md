@@ -12,4 +12,3 @@ I do volunteer work for SCOUTS South Africa. Having been fully involved in my yo
 This website aims to serve as an overview of myself and my work. All inquiries are welcome via any of the linked contact details. Please direct technical queries via GitHub if possible.
 
 *Be Prepared and Explore.*
-Change
