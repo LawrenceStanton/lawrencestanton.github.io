@@ -1,2 +1,2 @@
 # lawrencestanton.github.io
-Personal Blog
+Personal Site

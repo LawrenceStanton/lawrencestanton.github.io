@@ -1,10 +1,10 @@
 ---
-title: "Test Blog"
-date: 2018-01-28
-categories: Blog
+title: "Test Project"
+date: 2018-01-29
+categories: test
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+excerpt: "Machine Learning, Perceptron"
 mathjax: "true"
 ---
 
